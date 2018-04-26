@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:31
+-keep class ui.V_Copia { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class ui.V_Desinstalar { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class ui.V_Final { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class ui.V_Principal { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class ui.V_Proceso { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class ui.V_ProcesoNoRoot { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class ui.V_ProcesoRoot { <init>(...); }
+

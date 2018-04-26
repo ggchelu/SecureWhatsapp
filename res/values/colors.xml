@@ -1,0 +1,13 @@
+<resources>
+    <color name="color_preloader_start_menu">#80ffffd3</color>
+    <color name="color_preloader_center_menu">#80ffffd3</color>
+    <color name="color_preloader_end_menu">#ff336699</color>
+    
+    <color name="color_preloader_start_dialog">#80474748</color>
+    <color name="color_preloader_center_dialog">#80474748</color>
+    <color name="color_preloader_end_dialog">#ffb5e61d</color>
+    
+    <color name="color_preloader_start">#80000000</color>
+    <color name="color_preloader_center">#80000000</color>
+    <color name="color_preloader_end">#ff336699</color>
+</resources>

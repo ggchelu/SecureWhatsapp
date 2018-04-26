@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhatsApp Secure</string>
+
+    <string name="informacion">Mediante WhatsApp Secure protegerá su WhatsApp para que no se puedan recuperar los mensajes eliminados en la página Web: </string>
+    
+    <string name="tnoroot">Se ha detectado un dispositivo sin root. El proceso se hará en 4 pasos.</string>
+    <string name="troot">Se ha detectado un dispositivo con root. El proceso se hará en 1 paso.</string>
+    
+    <string name="tfinal">Instale WhatsApp y recupere la base de datos, esta base de datos estará protegida y no se podrán recuperar los mensajes eliminados. Puede desinstalar esta aplicación.</string>
+    <string name="tpaso1">El primer paso consite en hacer una copia de seguridad de sus mensajes. Abra WhatsApp y pulse en Ajustes > Ajustes de Chat > Guardar Conversaciones.</string>
+    <string name="tpaso2">El segundo paso consiste ir a Ajustes > Aplicaciones > WhatsApp. Fuerce el cierre, borre los datos y la cache, y continuación pulse en Desistalar.</string>
+</resources>

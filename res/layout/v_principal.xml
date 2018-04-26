@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+     android:id="@+id/rel"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:background="@drawable/degradado" >       
+        	        
+            <ImageView android:id="@+id/logo" 
+            android:layout_width="70dp" 
+            android:layout_height="80dp" 
+            android:src="@drawable/logo" 
+            android:scaleType="fitXY" />  
+        
+	        <TextView android:id="@+id/tinfo"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" 
+	        android:text="Bienvenido"
+	        android:textColor="#ffffff"
+	        android:autoLink="web"/>
+	        
+	        <TextView android:id="@+id/troot"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" 
+	        android:text=""
+	        android:textColor="#4c8a0d"/>
+        
+            <Button 
+	        android:id="@+id/bempezar" 
+	        android:layout_width="100dp" 
+	        android:layout_height="50dp" 
+	        android:background="@drawable/boton_azul"
+	        android:text="Comenzar"
+	        android:textColor="#ffffff"
+            android:shadowColor="#23486d"
+        	android:shadowRadius="1.5"  
+        	android:shadowDx="1"  
+        	android:shadowDy="1"/>
+        
+    </RelativeLayout>
+</LinearLayout>

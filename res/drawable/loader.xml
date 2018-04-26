@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toDegrees="360" >
+
+    <shape android:shape="oval" >
+        <gradient
+            android:centerColor="@color/color_preloader_center_dialog"
+            android:centerY="0.50"
+            android:endColor="@color/color_preloader_end_dialog"
+            android:startColor="@color/color_preloader_start_dialog"
+            android:type="sweep" />
+    </shape>
+
+</rotate>

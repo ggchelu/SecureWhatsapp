@@ -1,0 +1,40 @@
+com.stericson.RootToolsTests.SanityCheckRootTools$TestHandler:
+    public static final java.lang.String ACTION
+    public static final int ACTION_SHOW
+    public static final int ACTION_HIDE
+    public static final int ACTION_DISPLAY
+    public static final int ACTION_PDISPLAY
+    public static final java.lang.String TEXT
+log.UserEmailFetcher:
+    14:20:static java.lang.String getEmail(android.content.Context)
+    25:32:private static android.accounts.Account getAccount(android.accounts.AccountManager)
+org.apache.commons.ssl.Version$CompileTime:
+    private static final java.lang.String PATTERN
+    private static final java.lang.String PREFIX
+    private static final java.lang.String DF_FORMAT
+org.apache.commons.ssl.asn1.LimitedInputStream:
+    15:15:java.io.InputStream getUnderlyingStream()
+ui.V_Desinstalar:
+    android.database.sqlite.SQLiteDatabase db
+ui.V_Final:
+    android.database.sqlite.SQLiteDatabase db
+ui.V_Proceso:
+    android.database.sqlite.SQLiteDatabase db
+    167:172:private boolean isPackageInstalled(java.lang.String,android.content.Context)
+    178:182:private boolean isFileInSD()
+    209:227:private void importDB()
+    232:253:private void exportDB()
+    258:282:private void inflateDB()
+    289:311:private void dumpBD()
+    321:343:private void generateDB()
+    350:374:private void decrypt()
+    380:380:private void actualizaLog(java.lang.String)
+    385:434:private void tratarFichero()
+    440:462:private void dumpSql()
+    466:484:private void writeToFile(java.lang.String)
+    488:515:private void leerFichero()
+    555:580:private void lanzaComandos()
+ui.V_ProcesoNoRoot:
+    521:543:private static void decrypt(java.io.File,java.io.File,java.lang.String)
+ui.V_ProcesoRoot:
+    102:131:private boolean comandoKill(int)
